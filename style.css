@@ -397,6 +397,12 @@ footer {
     border-top: 1px solid #ededed;
 }
 
+.request-quote-contact-form {
+    border: 1px solid #ededed;
+    background-color: #f9f9f9;
+    padding: 10px;
+}
+
 
 /* Media queries */
 
@@ -413,6 +419,9 @@ footer {
     }
     .social-icons {
         display: none!important;
+    }
+    .request-quote-contact-form {
+        margin: 15px;
     }
 }
 
