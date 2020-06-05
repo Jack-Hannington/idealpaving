@@ -1,14 +1,16 @@
 {
-  "name": "ideal_paving_cheshire",
-  "version": "1.0.0",
-  "description": "Ideal Paving Cheshire website",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Jack Hannington",
-  "license": "ISC",
-  "dependencies": {
-    "cocoen": "^2.0.5"
-  }
+    "name": "ideal_paving_cheshire",
+    "version": "1.0.0",
+    "description": "Ideal Paving Cheshire website",
+    "main": "index.html",
+    "scripts": {
+        "start": "sergey",
+        "dev": "sergey --watch"
+    },
+    "author": "Jack Hannington",
+    "license": "ISC",
+    "dependencies": {
+        "cocoen": "^2.0.5",
+        "sergey": "0.0.13"
+    }
 }
