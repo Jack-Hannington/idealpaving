@@ -287,6 +287,21 @@ button:hover {
     padding-left: 100px;
 }
 
+.left-reviews-column {
+    padding-right: 0px;
+}
+
+.right-reviews-column {
+    padding-left: 0px;
+}
+
+@media (max-width:768px) {
+    .left-reviews-logo,
+    .reviews-column {
+        padding: 10px;
+    }
+}
+
 
 /* Teams */
 
