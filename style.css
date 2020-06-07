@@ -302,6 +302,12 @@ button:hover {
     }
 }
 
+@media (min-width:768px) {
+    .review-content {
+        padding-top: 40px;
+    }
+}
+
 
 /* Teams */
 
