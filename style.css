@@ -27,7 +27,7 @@ a {
 }
 
 .mt-80 {
-    margin-top: 80px;
+    margin-top: 100px;
 }
 
 
@@ -109,8 +109,8 @@ button:hover {
     /* color: #23293D; */
     color: #23293d;
     padding: 10px 20px 10px 20px;
-    border-top: 1px solid #ECECEC;
     border-bottom: 1px solid #ECECEC;
+    background-image: url("https://res.cloudinary.com/dtt3pdk9l/image/upload/v1590949312/Ideal_construction/striped_background_gfrl9d.jpg");
 }
 
 .top-bar-img {
