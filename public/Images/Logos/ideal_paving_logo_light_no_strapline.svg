@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 302 336" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2541.47,-1216.54)">
+        <g transform="matrix(1,0,0,1,1148.16,1796.8)">
+            <g transform="matrix(1,0,0,1,100.882,21.1901)">
+                <g transform="matrix(0.999999,0.0016102,-0.0016102,0.999999,-815.704,-639.995)">
+                    <g transform="matrix(0.0372434,-0.999306,0.999306,0.0372434,1886.14,2293.47)">
+                        <text x="2133.34px" y="167.862px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:35px;fill:rgb(171,171,171);">I</text>
+                    </g>
+                    <g transform="matrix(0.252423,-0.967617,0.967617,0.252423,1452.78,2175.55)">
+                        <text x="2134.34px" y="147.581px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:35px;fill:rgb(171,171,171);">D</text>
+                    </g>
+                    <g transform="matrix(0.500626,-0.865664,0.865664,0.500626,972.96,1913.25)">
+                        <text x="2144.78px" y="113.312px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:35px;fill:rgb(171,171,171);">E</text>
+                    </g>
+                    <g transform="matrix(0.708159,-0.706053,0.706053,0.708159,571.457,1551.74)">
+                        <text x="2162.8px" y="84.607px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:35px;fill:rgb(171,171,171);">A</text>
+                    </g>
+                    <g transform="matrix(0.868673,-0.495386,0.495386,0.868673,257.564,1092.46)">
+                        <text x="2189.24px" y="60.443px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:35px;fill:rgb(171,171,171);">L</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,-1890.33,-1199.37)">
+                    <path d="M3221.01,751.668C3220.67,747.854 3220.5,743.994 3220.5,740.094C3220.5,668.275 3278.81,609.967 3350.63,609.967C3422.45,609.967 3480.75,668.275 3480.75,740.094C3480.75,811.913 3422.45,870.22 3350.63,870.22C3326.93,870.22 3304.71,863.874 3285.56,852.789L3285.56,929.047L3219.29,929.62L3221.01,751.668ZM3350.63,675.03C3386.54,675.03 3415.69,704.184 3415.69,740.094C3415.69,776.003 3386.54,805.157 3350.63,805.157C3314.72,805.157 3285.56,776.003 3285.56,740.094C3285.56,704.184 3314.72,675.03 3350.63,675.03Z" style="fill:none;stroke:rgb(56,56,56);stroke-width:7.4px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-2373.06,-1778.3)">
+                    <circle cx="3833.36" cy="1319.02" r="41.423" style="fill:none;stroke:rgb(164,164,164);stroke-width:7.4px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
